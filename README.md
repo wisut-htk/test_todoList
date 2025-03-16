@@ -2,4 +2,4 @@
 How to run this project
 
 - npm install
-- nppm run dev
+- npm run dev
